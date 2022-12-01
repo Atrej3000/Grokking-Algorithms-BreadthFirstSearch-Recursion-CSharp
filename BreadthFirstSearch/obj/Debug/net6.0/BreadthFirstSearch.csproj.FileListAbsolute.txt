@@ -1,0 +1,15 @@
+/Users/alina_serha/Projects/BreadthFirstSearch/BreadthFirstSearch/bin/Debug/net6.0/BreadthFirstSearch
+/Users/alina_serha/Projects/BreadthFirstSearch/BreadthFirstSearch/bin/Debug/net6.0/BreadthFirstSearch.deps.json
+/Users/alina_serha/Projects/BreadthFirstSearch/BreadthFirstSearch/bin/Debug/net6.0/BreadthFirstSearch.runtimeconfig.json
+/Users/alina_serha/Projects/BreadthFirstSearch/BreadthFirstSearch/bin/Debug/net6.0/BreadthFirstSearch.dll
+/Users/alina_serha/Projects/BreadthFirstSearch/BreadthFirstSearch/bin/Debug/net6.0/BreadthFirstSearch.pdb
+/Users/alina_serha/Projects/BreadthFirstSearch/BreadthFirstSearch/obj/Debug/net6.0/BreadthFirstSearch.csproj.AssemblyReference.cache
+/Users/alina_serha/Projects/BreadthFirstSearch/BreadthFirstSearch/obj/Debug/net6.0/BreadthFirstSearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alina_serha/Projects/BreadthFirstSearch/BreadthFirstSearch/obj/Debug/net6.0/BreadthFirstSearch.AssemblyInfoInputs.cache
+/Users/alina_serha/Projects/BreadthFirstSearch/BreadthFirstSearch/obj/Debug/net6.0/BreadthFirstSearch.AssemblyInfo.cs
+/Users/alina_serha/Projects/BreadthFirstSearch/BreadthFirstSearch/obj/Debug/net6.0/BreadthFirstSearch.csproj.CoreCompileInputs.cache
+/Users/alina_serha/Projects/BreadthFirstSearch/BreadthFirstSearch/obj/Debug/net6.0/BreadthFirstSearch.dll
+/Users/alina_serha/Projects/BreadthFirstSearch/BreadthFirstSearch/obj/Debug/net6.0/refint/BreadthFirstSearch.dll
+/Users/alina_serha/Projects/BreadthFirstSearch/BreadthFirstSearch/obj/Debug/net6.0/BreadthFirstSearch.pdb
+/Users/alina_serha/Projects/BreadthFirstSearch/BreadthFirstSearch/obj/Debug/net6.0/BreadthFirstSearch.genruntimeconfig.cache
+/Users/alina_serha/Projects/BreadthFirstSearch/BreadthFirstSearch/obj/Debug/net6.0/ref/BreadthFirstSearch.dll

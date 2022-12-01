@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{0D23C635-EBCB-46F5-A9EB-FFAAC04B1FE6}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BreadthFirstSearch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BreadthFirstSearch/Program.cs">
+    <Files>
+      <File FileName="BreadthFirstSearch/Program.cs" Line="77" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BreadthFirstSearch" expanded="True">
+            <Node name="BreadthFirstSearch" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MultiItemStartupConfigurations />
+</Properties>
